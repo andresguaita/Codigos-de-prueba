@@ -17,7 +17,7 @@ def menor_valor():
             print(valor3)
             
 
-# bloque principal
+# Programa principal
 
 menor_valor()
 menor_valor()
